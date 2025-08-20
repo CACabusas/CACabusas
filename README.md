@@ -1,6 +1,11 @@
-## Hello
+## greetings
 
-In my free time, I play games
-At night, I doomscroll/watch YouTube
+in my free time, i play games</br>
+at night, i doomscroll/watch YouTube
 
-The only project that I've actually worked on is [MVFM](https://github.com/CACabusas/MVFM)
+i usually do webdev stuff</br>
+but the only project that i've actually finished and published here in GitHub is [MVFM](https://github.com/CACabusas/MVFM)
+
+i ain't gonna sugarcoat it: the coding language i know is ChatGPT/DeepSeek lmao
+
+_WAH_
