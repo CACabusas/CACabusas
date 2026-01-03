@@ -14,5 +14,3 @@ kidding aside, below are the languages i am knowledgeable/familiar with
 - Java
 - Python
 - SQL (MySQL)
-
-_WAH_
