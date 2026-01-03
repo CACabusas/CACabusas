@@ -15,9 +15,4 @@ kidding aside, below are the languages i am knowledgeable/familiar with
 - Python
 - SQL (MySQL)
 
-btw here's a self promo of my music stuff lol\
-[YouTube](https://www.youtube.com/c/AloneatHome00)\
-[bandcamp](https://aloneathome00.bandcamp.com/)\
-i go by Alone at Home
-
 _WAH_
