@@ -1,7 +1,6 @@
 **hallo**
 
-i usually do webdev stuff\
-but the only project that i've actually finished and published here in GitHub is [MVFM](https://github.com/CACabusas/MVFM)
+i usually do webdev stuff
 
 i ain't gonna sugarcoat it: the coding language i know is ChatGPT/DeepSeek lmao\
 but because of that, i can pretty much handle a project solo\
