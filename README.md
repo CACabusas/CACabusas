@@ -1,6 +1,7 @@
 **hallo**
 
-i usually do webdev stuff
+i usually do video editing stuff,\
+but i also do webdev stuff sometimes
 
 i ain't gonna sugarcoat it: the coding language i know is ChatGPT/DeepSeek lmao\
 but because of that, i can pretty much handle a project solo\
@@ -14,3 +15,5 @@ kidding aside, below are the languages i am knowledgeable/familiar with
 - Java
 - Python
 - SQL (MySQL)
+
+you can check my github pages for my portfolio
