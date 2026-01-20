@@ -16,4 +16,4 @@ kidding aside, below are the languages i am knowledgeable/familiar with
 - Python
 - SQL (MySQL)
 
-you can check my github pages for my portfolio
+you can check my [github pages](https://cacabusas.github.io/) for my portfolio
